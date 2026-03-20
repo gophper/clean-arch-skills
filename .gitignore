@@ -1,0 +1,8 @@
+# build artifacts
+scaffold
+*.exe
+
+# editor
+.idea/
+.vscode/
+*.swp
